@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myothuko98
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning React and NodeJS
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Web and Mobile Development
 - 📫 How to reach me myothuko2012@gmail.com or myothuko@ucsy.edu.mm
 
 <!---

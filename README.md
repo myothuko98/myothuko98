@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myothuko98
+- 👋 Hellooo!!!, My name is Myo Thu Ko@Michael
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning React, React Native and NodeJS
 - 💞️ I’m looking to collaborate on Web and Mobile Development
